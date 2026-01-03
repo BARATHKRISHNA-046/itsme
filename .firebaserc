@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "deploy": "foodstore-a12fa",
+    "default": "foodstore-a12fa"
+  },
+  "targets": {},
+  "etags": {}
+}
